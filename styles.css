@@ -1,0 +1,8 @@
+#combat-tracker .initiative {
+	flex: 0 0 62px !important;
+	min-width: 62px;
+	font-weight: bold;
+}
+#combat-tracker .initiative:hover {
+	filter: brightness(1.2);
+}

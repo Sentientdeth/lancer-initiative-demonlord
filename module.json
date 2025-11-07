@@ -1,0 +1,12 @@
+{
+	"id": "lancer-initiative-demonlord",
+	"title": "Lancer Initiative for Shadow of the Demon Lord",
+	"description": "Replaces rolled initiative values with 'Fast Turn' and 'Slow Turn' and makes them clickable to switch between.",
+	"version": "0.1.0",
+	"compatibility": {
+		"minimum": "12",
+		"verified": "12"
+	},
+	"esmodules": ["module.js"],
+	"styles": ["styles.css"]
+}
