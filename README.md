@@ -2,5 +2,5 @@
 Integrates Shadow of the Demon Lord's Fast/Slow Turns into the UI of Lancer Initiative by Bolts (https://foundryvtt.com/packages/lancer-initiative/).
 Requires Lancer Initiative and the Shadow of the Demon Lord system
 Compatible w/ version 12 of FoundryVTT, can't seem to get lancer initiative to work in v13 w/ shadow of the demon lord.
-You must turn on "Enable Initiative Rolling" in the Lancer Initiative settings.
+You must have "Enable Initiative Rolling" checked on the Lancer Initiative settings.
 Clicking on the text of Fast Turn/Slow Turn on the combat tracker will toggle between them. Not yet implemented for the pop-out tracker.
